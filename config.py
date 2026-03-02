@@ -1,0 +1,5 @@
+class Config:
+    WINDOW_VOL = 20
+    CUSUM_THRESHOLD = 0.5
+    PELT_PENALTY = 10
+    SIGNIFICANCE_LEVEL = 0.05**
